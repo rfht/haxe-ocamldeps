@@ -1,0 +1,10 @@
+gen:			BSD-2-Clause
+obuild:			BSD-2-Clause
+extlib:			GNU LGPL-2.1
+migrate-parsetree:	GNU LGPL-2.1
+sha:			ISC
+ppx_derivers:		BSD-style license
+ppx_tools_versioned:	MIT
+ptmap:			GNU LGPL-2.1
+sedlex:			MIT
+xml-light:		GNU LGPL

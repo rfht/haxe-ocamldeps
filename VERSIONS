@@ -1,0 +1,10 @@
+gen:			0.5.2
+obuild:			0.1.10
+extlib:			1.7.6
+migrate-parsetree:	1.4.0
+sha:			1.12
+ppx_derivers:		1.2.1
+ppx_tools_versioned:	5.2.3
+ptmap:			2.0.4
+sedlex:			2.1
+xml-light:		2.4

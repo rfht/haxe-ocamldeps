@@ -1,0 +1,6 @@
+PKG unix
+S ext
+S src
+S obuild
+S tools
+B dist/**

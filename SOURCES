@@ -1,0 +1,10 @@
+gen:			https://github.com/c-cube/gen
+obuild:			https://github.com/ocaml-obuild/obuild
+extlib:			https://github.com/ygrek/ocaml-extlib
+migrate-parsetree:	https://github.com/ocaml-ppx/ocaml-migrate-parsetree
+sha:			https://github.com/djs55/ocaml-sha
+ppx_derivers:		https://github.com/ocaml-ppx/ppx_derivers
+ppx_tools_versioned:	https://github.com/ocaml-ppx/ppx_tools_versioned
+ptmap:			https://github.com/backtracking/ptmap
+sedlex:			https://github.com/ocaml-community/sedlex
+xml-light:		https://github.com/ncannasse/xml-light
