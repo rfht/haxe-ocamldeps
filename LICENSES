@@ -1,7 +1,7 @@
-gen:			BSD-2-Clause
-obuild:			BSD-2-Clause
 extlib:			GNU LGPL-2.1
+gen:			BSD-2-Clause
 migrate-parsetree:	GNU LGPL-2.1
+obuild:			BSD-2-Clause
 sha:			ISC
 ppx_derivers:		BSD-style license
 ppx_tools_versioned:	MIT
