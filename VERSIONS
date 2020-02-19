@@ -2,7 +2,7 @@ extlib:			1.7.6
 gen:			0.5.2
 migrate-parsetree:	1.4.0
 obuild:			0.1.10
-sha:			1.12
+sha:			commit 1b059f84781fab99ed55bd130aa793c152be2acc from 2020-01-22 (uses dune instead of jbuilder)
 ppx_derivers:		1.2.1
 ppx_tools_versioned:	5.2.3
 ptmap:			2.0.4
